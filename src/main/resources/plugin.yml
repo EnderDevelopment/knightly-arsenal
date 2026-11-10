@@ -1,0 +1,5 @@
+name: HistoricalArsenal
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Loads the Historical Arsenal datapack resources.
